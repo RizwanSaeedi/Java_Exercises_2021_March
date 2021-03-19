@@ -4,5 +4,5 @@
 ## EXERCISE 1
 #### Write To Program To Print Counting From 1 to 10 and 10 to 1 using while loop , do while and for loop
 
-## EXERCISE 2Cancel Changes
+## EXERCISE 2
 ####  write a program to get answer of add , subtract multiply , divide using functions
