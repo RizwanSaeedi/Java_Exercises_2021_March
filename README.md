@@ -1,8 +1,15 @@
 # JAVA FOR BEGINNERS EXERCISE CODES
 ### FOR MY STUDENTS LINKED VIDEOS ON YOUTUBE/SAEEDISOFT
 
+###### https://www.youtube.com/watch?v=I4ibkdQymHo&t=317s
+
 ## EXERCISE 1
-#### Write To Program To Print Counting From 1 to 10 and 10 to 1 using while loop , do while and for loop
+#### WRITE TO PROGRAM TO PRINT COUNTING FROM 1 TO 10 AND 10 TO 1 USING WHILE LOOP , DO WHILE AND FOR LOOP
+
+###### https://www.youtube.com/watch?v=-Na0NtuiLjs&t=1s
 
 ## EXERCISE 2
-####  Write a program to get answer of add , subtract multiply , divide using functions
+####  WRITE A PROGRAM TO GET ANSWER OF ADD , SUBTRACT MULTIPLY , DIVIDE USING FUNCTIONS
+
+## EXERCISE 3
+####  WRITE A PROGRAM TO FINDMAX , MIN AND AVERAGE VALUE FROM SAMPLE NUMBERS ARRAY
