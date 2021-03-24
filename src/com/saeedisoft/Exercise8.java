@@ -15,6 +15,7 @@ public class Exercise8
         String output = "";
         for (int i = 0; i < times; i++)
         {
+            //test
             output += i + 1 + " " + name + "\n";
         }
         return output;
